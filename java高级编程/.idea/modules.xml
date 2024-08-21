@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Collection/Collection.iml" filepath="$PROJECT_DIR$/Collection/Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TimeAndDate/DateAndCalendar/DateAndCalendar.iml" filepath="$PROJECT_DIR$/TimeAndDate/DateAndCalendar/DateAndCalendar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collection/DequeDemo/DequeDemo.iml" filepath="$PROJECT_DIR$/Collection/DequeDemo/DequeDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO/File/File.iml" filepath="$PROJECT_DIR$/IO/File/File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO/Filter/Filter.iml" filepath="$PROJECT_DIR$/IO/Filter/Filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO/IO.iml" filepath="$PROJECT_DIR$/IO/IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO/InputStream/InputStream.iml" filepath="$PROJECT_DIR$/IO/InputStream/InputStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collection/Iterator/Iterator.iml" filepath="$PROJECT_DIR$/Collection/Iterator/Iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JUnitTest/JUnitTest.iml" filepath="$PROJECT_DIR$/JUnitTest/JUnitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collection/List/List.iml" filepath="$PROJECT_DIR$/Collection/List/List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TimeAndDate/LocalDataTime/LocalDataTime.iml" filepath="$PROJECT_DIR$/TimeAndDate/LocalDataTime/LocalDataTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collection/Map/Map.iml" filepath="$PROJECT_DIR$/Collection/Map/Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO/OutputStream/OutputStream.iml" filepath="$PROJECT_DIR$/IO/OutputStream/OutputStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO/Reader/Reader.iml" filepath="$PROJECT_DIR$/IO/Reader/Reader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Record/Record.iml" filepath="$PROJECT_DIR$/Record/Record.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collection/SetDemo/SetDemo.iml" filepath="$PROJECT_DIR$/Collection/SetDemo/SetDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collection/Stack/Stack.iml" filepath="$PROJECT_DIR$/Collection/Stack/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadDemo/ThreadDemo.iml" filepath="$PROJECT_DIR$/ThreadDemo/ThreadDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadDemo2/ThreadDemo2.iml" filepath="$PROJECT_DIR$/ThreadDemo2/ThreadDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TimeAndDate/TimeAndDate.iml" filepath="$PROJECT_DIR$/TimeAndDate/TimeAndDate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO/Writer/Writer.iml" filepath="$PROJECT_DIR$/IO/Writer/Writer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO/Zip/Zip.iml" filepath="$PROJECT_DIR$/IO/Zip/Zip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TimeAndDate/ZonedDateTime/ZonedDateTime.iml" filepath="$PROJECT_DIR$/TimeAndDate/ZonedDateTime/ZonedDateTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enum/enum.iml" filepath="$PROJECT_DIR$/enum/enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java高级编程.iml" filepath="$PROJECT_DIR$/.idea/java高级编程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TimeAndDate/practice/practice.iml" filepath="$PROJECT_DIR$/TimeAndDate/practice/practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collection/priorityQueue/priorityQueue.iml" filepath="$PROJECT_DIR$/Collection/priorityQueue/priorityQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collection/properties/properties.iml" filepath="$PROJECT_DIR$/Collection/properties/properties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collection/queue/queue.iml" filepath="$PROJECT_DIR$/Collection/queue/queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stringDemo/stringDemo.iml" filepath="$PROJECT_DIR$/stringDemo/stringDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/注解/untitled.iml" filepath="$PROJECT_DIR$/注解/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/多线程卖票/untitled1.iml" filepath="$PROJECT_DIR$/多线程卖票/untitled1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collection/equal练习/untitled10.iml" filepath="$PROJECT_DIR$/Collection/equal练习/untitled10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collection/覆写equals练习/untitled11.iml" filepath="$PROJECT_DIR$/Collection/覆写equals练习/untitled11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collection/map练习/untitled12.iml" filepath="$PROJECT_DIR$/Collection/map练习/untitled12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collection/stack练习，中缀转后缀(很难)/untitled13.iml" filepath="$PROJECT_DIR$/Collection/stack练习，中缀转后缀(很难)/untitled13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO/序列化/untitled14.iml" filepath="$PROJECT_DIR$/IO/序列化/untitled14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO/printStream_and_printWriter/untitled15.iml" filepath="$PROJECT_DIR$/IO/printStream_and_printWriter/untitled15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO/Files类用法/untitled16.iml" filepath="$PROJECT_DIR$/IO/Files类用法/untitled16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/反射/untitled2.iml" filepath="$PROJECT_DIR$/反射/untitled2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/反射练习1/untitled3.iml" filepath="$PROJECT_DIR$/反射练习1/untitled3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Annotation练习/untitled4.iml" filepath="$PROJECT_DIR$/Annotation练习/untitled4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/泛型/untitled5.iml" filepath="$PROJECT_DIR$/泛型/untitled5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/获取父类泛型/untitled6.iml" filepath="$PROJECT_DIR$/获取父类泛型/untitled6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/泛型/反射与泛型/untitled7.iml" filepath="$PROJECT_DIR$/泛型/反射与泛型/untitled7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collection/equal练习/untitled8.iml" filepath="$PROJECT_DIR$/Collection/equal练习/untitled8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collection/equal练习/equal练习/untitled9.iml" filepath="$PROJECT_DIR$/Collection/equal练习/equal练习/untitled9.iml" />
+    </modules>
+  </component>
+</project>
