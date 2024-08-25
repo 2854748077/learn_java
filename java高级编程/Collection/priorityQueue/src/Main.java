@@ -7,6 +7,7 @@ import java.util.Queue;
 public class Main {
     public static void main(String[] args) {
 
+        //优先级队列
         Queue<User> q =new PriorityQueue<>(new myComparator());  //允许提供comparator对象来判断两个元素顺序
 
         q.offer(new User("Bob", "A1"));

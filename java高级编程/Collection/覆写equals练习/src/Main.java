@@ -8,7 +8,7 @@ public class Main {
                 new Person("Xiao", "Hong", 25),
                 new Person("Bob", "Smith", 20)
         );
-        boolean exist = list.contains(new Person("Bob", "Smith", 20));
+        boolean exist = list.contains(new Person("Bob", "Smith", 20));  //contains() :包含
         System.out.println(exist ? "测试成功!" : "测试失败!");
 
     }

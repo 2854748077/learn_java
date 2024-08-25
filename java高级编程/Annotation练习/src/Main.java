@@ -1,5 +1,11 @@
-import java.lang.reflect.Field;
 
+/*
+* @Target（）：定义Annotation能够被应用于源码的哪些位置
+* @Retention：定义了Annotation的生命周期：
+* @Repeatable：这个元注解可以定义Annotation是否可重复
+* @Inherited：定义子类是否可继承父类定义的Annotation
+* */
+import java.lang.reflect.Field;
 import java.lang.annotation.ElementType;
 import java.lang.annotation.RetentionPolicy;
 
@@ -74,7 +80,7 @@ class Person {
 
 @Retention(RetentionPolicy.RUNTIME)                       //Retention（）：声明生存周期（运行时）
 @Target(ElementType.FIELD)                              //Target（）：可用与字段上
- @interface Range {
+ @interface Range {                                    //定义annotation
 
     int min() default 0;
 
