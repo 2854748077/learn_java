@@ -1,4 +1,12 @@
-package thread_synchronization.condition;
+/*
+
+使用ReadWriteLock可以提高读取效率：
+ReadWriteLock只允许一个线程写入；
+ReadWriteLock允许多个线程在没有写入时同时读取；
+ReadWriteLock适合读多写少的场景。
+
+*
+* */package thread_synchronization.condition;
 
 import java.util.Arrays;
 import java.util.concurrent.locks.Lock;
