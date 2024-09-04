@@ -39,8 +39,8 @@ class User implements Comparable<User>{
     public String toString() {
         return name + "/" + number;
     }
-    public int compareTo(User u){                      //提供comparator对象  或者 覆写compareTo()方法
+   /* public int compareTo(User u){                      //提供comparator对象  或者 覆写compareTo()方法
         return this.name.compareTo(u.name);
-    }
+    }*/
 
 }
