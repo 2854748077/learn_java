@@ -45,10 +45,7 @@ public class Main {
         for(Message m :received){
             squ.add(m);
         }
-/*        List<Message> list=new ArrayList<>();
-        for(Message m:squ){
-            list.add(m);
-        }*/
+
 
         return new ArrayList<>(squ);
     }
