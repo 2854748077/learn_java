@@ -5,6 +5,8 @@
 //load():：加载文件中的键值对
 //FileOutputStream(“路径”):用于将数据写入具体文件
 //InputStream :从字节数组中读取数据
+//props.store():把props的内容写进配置文件
+
 import java.io.*;
 import java.util.Properties;
 
