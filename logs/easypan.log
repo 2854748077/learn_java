@@ -1,0 +1,21 @@
+2025-03-13 02:28:16 [WARN][com.zaxxer.hikari.pool.HikariPool][run][788]-> HikariCPDatasource - Thread starvation or clock leap detected (housekeeper delta=2h32m21s992ms357µs200ns).
+2025-03-13 02:28:16 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - Before cleanup stats (total=6, active=1, idle=5, waiting=0)
+2025-03-13 02:28:16 [DEBUG][com.zaxxer.hikari.pool.HikariPool][logPoolState][421]-> HikariCPDatasource - After cleanup  stats (total=6, active=1, idle=5, waiting=0)
+2025-03-13 02:28:16 [DEBUG][com.zaxxer.hikari.pool.HikariPool][fillPool][518]-> HikariCPDatasource - Fill pool skipped, pool is at sufficient level.
+2025-03-13 02:28:16 [DEBUG][com.zaxxer.hikari.pool.HikariPool][addBagItem][342]-> HikariCPDatasource - Add connection elided, waiting 0, queue 1
+2025-03-13 02:28:16 [DEBUG][com.zaxxer.hikari.pool.HikariPool][addBagItem][342]-> HikariCPDatasource - Add connection elided, waiting 0, queue 1
+2025-03-13 02:28:16 [DEBUG][com.zaxxer.hikari.pool.HikariPool][addBagItem][342]-> HikariCPDatasource - Add connection elided, waiting 0, queue 1
+2025-03-13 02:28:16 [DEBUG][com.zaxxer.hikari.pool.PoolBase][quietlyCloseConnection][134]-> HikariCPDatasource - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5aed65e8: (connection has passed maxLifetime)
+2025-03-13 02:28:16 [DEBUG][com.zaxxer.hikari.pool.PoolBase][quietlyCloseConnection][134]-> HikariCPDatasource - Closing connection com.mysql.cj.jdbc.ConnectionImpl@132f18a3: (connection has passed maxLifetime)
+2025-03-13 02:28:16 [DEBUG][com.zaxxer.hikari.pool.HikariPool][fillPool][518]-> HikariCPDatasource - Fill pool skipped, pool is at sufficient level.
+2025-03-13 02:28:16 [DEBUG][com.zaxxer.hikari.pool.PoolBase][quietlyCloseConnection][134]-> HikariCPDatasource - Closing connection com.mysql.cj.jdbc.ConnectionImpl@6fef132c: (connection has passed maxLifetime)
+2025-03-13 02:28:16 [DEBUG][com.zaxxer.hikari.pool.HikariPool][fillPool][518]-> HikariCPDatasource - Fill pool skipped, pool is at sufficient level.
+2025-03-13 02:28:16 [DEBUG][com.zaxxer.hikari.pool.PoolBase][quietlyCloseConnection][134]-> HikariCPDatasource - Closing connection com.mysql.cj.jdbc.ConnectionImpl@60ed57cb: (connection has passed maxLifetime)
+2025-03-13 02:28:17 [DEBUG][com.zaxxer.hikari.pool.HikariPool][fillPool][518]-> HikariCPDatasource - Fill pool skipped, pool is at sufficient level.
+2025-03-13 02:28:17 [DEBUG][com.zaxxer.hikari.pool.PoolBase][quietlyCloseConnection][134]-> HikariCPDatasource - Closing connection com.mysql.cj.jdbc.ConnectionImpl@713caaff: (connection has passed maxLifetime)
+2025-03-13 02:28:17 [DEBUG][com.zaxxer.hikari.pool.HikariPool][fillPool][518]-> HikariCPDatasource - Fill pool skipped, pool is at sufficient level.
+2025-03-13 02:28:17 [DEBUG][com.zaxxer.hikari.pool.HikariPool][call][729]-> HikariCPDatasource - Added connection com.mysql.cj.jdbc.ConnectionImpl@43656b00
+2025-03-13 02:28:17 [DEBUG][com.zaxxer.hikari.pool.HikariPool][call][729]-> HikariCPDatasource - Added connection com.mysql.cj.jdbc.ConnectionImpl@258613b
+2025-03-13 02:28:17 [DEBUG][com.zaxxer.hikari.pool.HikariPool][call][729]-> HikariCPDatasource - Added connection com.mysql.cj.jdbc.ConnectionImpl@3390c40b
+2025-03-13 02:28:17 [DEBUG][com.zaxxer.hikari.pool.HikariPool][call][729]-> HikariCPDatasource - Added connection com.mysql.cj.jdbc.ConnectionImpl@62779e74
+2025-03-13 02:28:17 [DEBUG][com.zaxxer.hikari.pool.HikariPool][call][729]-> HikariCPDatasource - Added connection com.mysql.cj.jdbc.ConnectionImpl@208868dd
